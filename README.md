@@ -165,7 +165,7 @@ Khi có **xung đột (conflict)**, SourceTree đánh dấu file conflict; mở 
 - Trên thanh công cụ hoặc menu **Repository** → **Stash** — nhập mô tả ngắn nếu cần → **Stash** để cất toàn bộ thay đổi chưa commit và làm sạch working copy.
 - **Apply** / **Pop** stash khi muốn lấy lại thay đổi (Pop thường xóa mục stash sau khi áp dụng).
 
-### Mẹo cho người mới
+### Mẹo cho người beginner
 
 - Nếu nút **Push** / **Pull** bị mờ hoặc báo lỗi, kiểm tra đã **Fetch** gần đây chưa và nhánh hiện tại đã gán **upstream** (track remote) chưa — có thể chỉnh trong `Repository` → **Repository settings** → **Remotes**.
 - Đọc hộp thoại lỗi của SourceTree: thường trích nguyên nhân từ Git (xác thực, conflict, rejected push).
