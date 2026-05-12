@@ -171,7 +171,7 @@ Khi có **xung đột (conflict)**, SourceTree đánh dấu file conflict; mở 
 - Đọc hộp thoại lỗi của SourceTree: thường trích nguyên nhân từ Git (xác thực, conflict, rejected push).
 - Bạn có thể dùng **song song** terminal và SourceTree trên cùng một thư mục; chỉ tránh thao tác trùng lúc trên cùng một bước (ví dụ hai nơi cùng merge) để dễ theo dõi.
 
-## Tài liệu thêm
+## Tài liệu tham khảo
 
 - [Pro Git (tiếng Anh, miễn phí)](https://git-scm.com/book/en/v2)
 - Trợ giúp nhanh trong terminal: `git help <ten-lenh>` (ví dụ `git help commit`).
