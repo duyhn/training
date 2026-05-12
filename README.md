@@ -179,3 +179,5 @@ Khi có **xung đột (conflict)**, SourceTree đánh dấu file conflict; mở 
 ---
 
 Chúc bạn làm quen Git thuận lợi.
+
+edit file
