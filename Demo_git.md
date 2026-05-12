@@ -50,7 +50,7 @@ git switch main
 git merge feature/chao-hoi
 ```
 
-## Ghi chú khi làm việc nhóm
+## Ghi chú khi làm việc theo nhóm
 
 1. **Pull trước, push sau** — giảm xung đột.
 2. **Commit nhỏ, message rõ** — dễ review và revert.
